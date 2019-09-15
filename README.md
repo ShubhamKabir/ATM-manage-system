@@ -8,7 +8,7 @@ ATM simulator system in Java using Swings, AWT, SQL, JBDC
 
 # How to run
 
-1. Create a new project in IDE as
+1. Create a new Java Application project in IDE as
    - Project Name- atmsys
    - Group ID- bank
    - Package- bank.atmsys 
